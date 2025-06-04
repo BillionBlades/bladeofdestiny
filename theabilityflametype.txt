@@ -1,0 +1,4 @@
+The Ablity Flame type : 
+> Just like the blade of destiny
+> additional burn effect when the blade hit target 1% total damage per 5 second
+> in crisis situation hp<30%, increase burn effect until 5%, and the blade will explosive when user die
